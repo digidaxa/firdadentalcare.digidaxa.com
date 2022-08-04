@@ -1,0 +1,42 @@
+@font-face {
+   font-family: "Constantia";
+   src: url("fonts/Constantia.eot") format("embedded-opentype"), url("fonts/Constantia.ttf") format("truetype"), url("fonts/Constantia.woff") format("woff"), url("fonts/Constantia.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Constantia";
+   src: url("fonts/Constantia Bold.eot") format("embedded-opentype"), url("fonts/Constantia Bold.ttf") format("truetype"), url("fonts/Constantia Bold.woff") format("woff"), url("fonts/Constantia Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Constantia";
+   src: url("fonts/Constantia Italic.eot") format("embedded-opentype"), url("fonts/Constantia Italic.ttf") format("truetype"), url("fonts/Constantia Italic.woff") format("woff"), url("fonts/Constantia Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Constantia";
+   src: url("fonts/Constantia Bold Italic.eot") format("embedded-opentype"), url("fonts/Constantia Bold Italic.ttf") format("truetype"), url("fonts/Constantia Bold Italic.woff") format("woff"), url("fonts/Constantia Bold Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Garamond";
+   src: url("fonts/Garamond.eot") format("embedded-opentype"), url("fonts/Garamond.TTF") format("truetype"), url("fonts/Garamond.woff") format("woff"), url("fonts/Garamond.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Garamond";
+   src: url("fonts/Garamond Bold.eot") format("embedded-opentype"), url("fonts/Garamond Bold.TTF") format("truetype"), url("fonts/Garamond Bold.woff") format("woff"), url("fonts/Garamond Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Garamond";
+   src: url("fonts/Garamond Italic.eot") format("embedded-opentype"), url("fonts/Garamond Italic.TTF") format("truetype"), url("fonts/Garamond Italic.woff") format("woff"), url("fonts/Garamond Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
